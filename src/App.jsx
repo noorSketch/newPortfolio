@@ -121,14 +121,15 @@ const App = () => {
       title: "FaktArena",
       description: "Trivia game related to Malaysia factual information built with a focus on interactive learning.",
       tags: ["React", "Tailwind", "Vite"],
-      image: "/faktArena.jpg",
+      image: "./faktArena.jpg",
       link: "https://noorsketch.github.io/MyTrivia-Game/"
     },
     {
+      // Menggunakan ./ supaya ia mencari relatif kepada root folder di GitHub Pages
       title: "Type3ee",
       description: "Typing game that helps improve typing speed and accuracy through challenging levels.",
       tags: ["React", "Tailwind", "Vite"],
-      image: "/type3ee.jpg",
+      image: "./type3ee.jpg",
       link: "https://noorsketch.github.io/TypingGame-Type3ee/"
     },
     {

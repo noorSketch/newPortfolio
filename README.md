@@ -1,37 +1,60 @@
-Afiqah Zahid Portfolio
+# Hi there, I'm Afiqah Zahid 👋
 
-A modern, responsive portfolio built with React, Vite, and Tailwind CSS.
+**Tech Enthusiast | Junior Developer | Intern at Isuzu Hicom**
 
-🚀 Getting Started
+---
 
-Clone the repository
+## 🚀 About Me
+I am a passionate software developer currently completing my internship. I enjoy building clean, functional, and user-friendly web applications.  
 
-Install dependencies:
+My current focus is on **integrating AI** capabilities into everyday productivity tools.
 
-npm install
+- 🔭 Current Project : **AI Generated Meeting Minutes using Gemini API**
+- 🌱 Currently Learning : **React.js, ASP.NET, Tailwind and AI API Integration**
+- 💡 Interest : **AI-powered productivity tools & modern web applications**
+- ⚡ Fun Fact : I believe **every bug is just a hidden opportunity to learn something new**
 
+---
 
-Run the development server:
+## 🛠️ Tech Stack & Tools
 
-npm run dev
+**Languages**
+- HTML
+- CSS
+- JavaScript
+- C#
+- Python
 
+**Frameworks / Libraries**
+- React.js
+- ASP.NET MVC
+- Tailwind
 
-🛠️ Tech Stack
+**Tools & Platforms**
+- Git & GitHub
+- Visual Studio Code
+- XAMPP
+- Postman
 
-Framework: React
+**AI & APIs**
+- Google Gemini AI
+- Speechmatics API
+- Groq API
+- AssemblyAI
 
-Build Tool: Vite
+---
 
-Styling: Tailwind CSS
+## 📈 GitHub Stats
 
-Icons: Lucide React
+![Afiqah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noorSketch&show_icons=true&theme=tokyonight)
 
-📁 Project Structure
+---
 
-index.html: Entry point
+## 📬 Connect with Me
 
-src/main.jsx: React mount point
+- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 💻 GitHub: https://github.com/noorSketch
 
-src/App.jsx: Main portfolio logic & components
+---
 
-src/index.css: Tailwind directives
+⭐ *Built with ❤️ and lots of ☕*
